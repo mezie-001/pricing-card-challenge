@@ -1,3 +1,3 @@
 function alertuser() {
-  alert('You clicked the button!');
+  alert('why you go click am??!');
 }
