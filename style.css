@@ -102,3 +102,20 @@ ul {
   padding: 0;
   list-style: none;
 }
+
+@media (max-width: 720px) {
+  
+  .bottom-section {
+    flex-direction: column;
+  }
+  .bottom-left-section, 
+  .bottom-right-section {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .main-card {
+    width: 100%;
+    height: auto;
+  }
+}
